@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MAXIM127">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\MAXIM127.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\MAXIM127.suo">
+</Property><Property Name="Date" Value="Mittwoch, 11. November 2009">
+</Property><Property Name="Time" Value="22:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MAXIM127.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\MAXIM127.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="MAXIM127.suo" Description="Datei wurde erfolgreich als &quot;C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\MAXIM127.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="MAXIM127.vbproj" Description="Projektdatei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\MAXIM127.vbproj">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="MAXIM127.vbproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\MAXIM127.vbproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="AssemblyInfo.vb" Description="Datei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="Form1.Designer.vb" Description="Datei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="Form1.vb" Description="Datei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="iow.vb" Description="Datei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\iow.vb">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="Form1.resX" Description="Datei erfolgreich gesichert als C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\Backup\Form1.resX">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="MAXIM127.vbproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="MAXIM127" Source="MAXIM127.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MAXIM127.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="MAXIM127.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MAXIM127" Source="MAXIM127.vbproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>
