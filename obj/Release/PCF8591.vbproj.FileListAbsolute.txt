@@ -1,0 +1,9 @@
+C:\Users\dab\Desktop\8591\bin\Projekt1.exe
+C:\Users\dab\Desktop\8591\bin\Projekt1.xml
+C:\Users\dab\Desktop\8591\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dab\Desktop\8591\obj\Release\Projekt1.Form1.resources
+C:\Users\dab\Desktop\8591\obj\Release\PCF8591.vbproj.GenerateResource.Cache
+C:\Users\dab\Desktop\8591\obj\Release\Projekt1.exe
+C:\Users\dab\Desktop\8591\obj\Release\Projekt1.xml
+C:\Users\dab\Desktop\MD23\obj\Release\Projekt1.exe
+C:\Users\dab\Desktop\MD23\obj\Release\Projekt1.xml

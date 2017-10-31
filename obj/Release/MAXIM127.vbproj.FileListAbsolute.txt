@@ -1,0 +1,9 @@
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\bin\Projekt1.exe
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\bin\Projekt1.xml
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\obj\Release\Projekt1.Form1.resources
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\obj\Release\MAXIM127.vbproj.GenerateResource.Cache
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\obj\Release\Projekt1.exe
+C:\Users\dab\Windows_SDK\Windows\Samples\IIC\VB.net\MAXIM127\obj\Release\Projekt1.xml
+C:\Users\dab\Desktop\8591\obj\Release\Projekt1.exe
+C:\Users\dab\Desktop\8591\obj\Release\Projekt1.xml

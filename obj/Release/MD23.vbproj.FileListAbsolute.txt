@@ -1,0 +1,103 @@
+C:\Users\dab\Desktop\MD23\bin\Roboter.exe
+C:\Users\dab\Desktop\MD23\bin\Roboter.xml
+C:\Users\dab\Desktop\MD23\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dab\Desktop\MD23\obj\Release\Roboter.Form2.resources
+C:\Users\dab\Desktop\MD23\obj\Release\MD23.vbproj.GenerateResource.Cache
+C:\Users\dab\Desktop\MD23\obj\Release\Roboter.exe
+C:\Users\dab\Desktop\MD23\obj\Release\Roboter.xml
+C:\Users\dab\Desktop\MD23\bin\Roboter.exe.manifest
+C:\Users\dab\Desktop\MD23\bin\Roboter.application
+C:\Users\dab\Desktop\MD23\obj\Release\Roboter.exe.manifest
+C:\Users\dab\Desktop\MD23\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\bin\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\bin\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\bin\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\bin\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\ResolveAssemblyReference.cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\Roboter.Form2.resources
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127\obj\Release\Roboter.xml
+C:\Users\dab\Desktop\MD23MAX127\bin\Roboter.exe.manifest
+C:\Users\dab\Desktop\MD23MAX127\bin\Roboter.application
+C:\Users\dab\Desktop\MD23MAX127\bin\Roboter.exe
+C:\Users\dab\Desktop\MD23MAX127\bin\Roboter.xml
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\Roboter.Form2.resources
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\MD23.vbproj.GenerateResource.Cache
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\Roboter.exe.manifest
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\Roboter.application
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\Roboter.exe
+C:\Users\dab\Desktop\MD23MAX127\obj\Release\Roboter.xml
+H:\MD23MAX127.2\obj\Release\Roboter.exe
+H:\MD23MAX127.2\obj\Release\Roboter.xml
+H:\MD23MAX127.2\bin\Roboter.exe.manifest
+H:\MD23MAX127.2\bin\Roboter.application
+H:\MD23MAX127.2\bin\Roboter.exe
+H:\MD23MAX127.2\bin\Roboter.xml
+H:\MD23MAX127.2\obj\Release\ResolveAssemblyReference.cache
+H:\MD23MAX127.2\obj\Release\Roboter.Form2.resources
+H:\MD23MAX127.2\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\MD23MAX127.2\obj\Release\Roboter.exe.manifest
+H:\MD23MAX127.2\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\bin\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\bin\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\bin\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\bin\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\ResolveAssemblyReference.cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\Roboter.Form2.resources
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.2\obj\Release\Roboter.xml
+G:\MD23MAX127.2\bin\Roboter.exe.manifest
+G:\MD23MAX127.2\bin\Roboter.application
+G:\MD23MAX127.2\bin\Roboter.exe
+G:\MD23MAX127.2\bin\Roboter.xml
+G:\MD23MAX127.2\obj\Release\ResolveAssemblyReference.cache
+G:\MD23MAX127.2\obj\Release\Roboter.Form2.resources
+G:\MD23MAX127.2\obj\Release\MD23.vbproj.GenerateResource.Cache
+G:\MD23MAX127.2\obj\Release\Roboter.exe.manifest
+G:\MD23MAX127.2\obj\Release\Roboter.application
+G:\MD23MAX127.2\obj\Release\Roboter.exe
+G:\MD23MAX127.2\obj\Release\Roboter.xml
+E:\MD23MAX127.2\obj\Release\Roboter.exe
+E:\MD23MAX127.2\obj\Release\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\bin\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\bin\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\bin\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\bin\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\ResolveAssemblyReference.cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.Form2.resources
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.xml
+C:\Users\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.exe
+C:\Users\dab\Desktop\MD23MAX127.3\obj\Release\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\bin\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\bin\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\bin\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\ResolveAssemblyReference.cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\Roboter.Form2.resources
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\obj\Release\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.4\bin\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\ResolveAssemblyReference.cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\Roboter.Form2.resources
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\MD23.vbproj.GenerateResource.Cache
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\bin\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\bin\Roboter.application
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\bin\Roboter.exe
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\bin\Roboter.xml
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\Roboter.exe.manifest
+H:\Dokumente und Einstellungen\dab\Desktop\MD23MAX127.6\obj\Release\Roboter.application
